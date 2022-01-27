@@ -10,3 +10,7 @@
 ## Аналитический метод
 
 
+
+<p><img align="left" width="1280" height="500" src="Analytical_Method/vis/top.jpg"></p>
+<p><img align="left" src="Analytical_Method/vis/top2.png"></p>
+<p><img align="left" src="Analytical_Method/vis/top3.png"></p>
