@@ -1,2 +1,3 @@
 Model weights are large, so download them from google drive.
+For the classification model - model_cls.pth
 https://drive.google.com/drive/folders/1YFyj19UyWxc6kWe_l2g8Hv1KkTr_zBbw?usp=sharing
